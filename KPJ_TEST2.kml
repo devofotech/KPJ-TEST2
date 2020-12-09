@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon><![CDATA[kml_symbol_dot - blue@scale=2_0.png]]></Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Johor Specialist Hospital<BR><B>LATITUDE</B> = 1.4759835<BR><B>LONGITUDE</B> = 103.7410923]]></description>
+      <name>KPJ Johor Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7410923000,1.4759835000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Healthcare Berhad<BR><B>LATITUDE</B> = 6.1487<BR><B>LONGITUDE</B> = 100.36947]]></description>
+      <name>KPJ Healthcare Berhad</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3694700000,6.1487000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Perdana Specialist Hospital<BR><B>LATITUDE</B> = 6.1217<BR><B>LONGITUDE</B> = 102.2436092]]></description>
+      <name>KPJ Perdana Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2436092000,6.1217000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Tawakkal KL Specialist Hospital<BR><B>LATITUDE</B> = 3.1769514<BR><B>LONGITUDE</B> = 101.6986424]]></description>
+      <name>KPJ Tawakkal KL Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6986424000,3.1769514000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Sentosa KL Specialist Hospital<BR><B>LATITUDE</B> = 3.1708655<BR><B>LONGITUDE</B> = 101.6971591]]></description>
+      <name>KPJ Sentosa KL Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6971591000,3.1708655000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Seremban Specialist Hospital<BR><B>LATITUDE</B> = 2.718525<BR><B>LONGITUDE</B> = 101.921826]]></description>
+      <name>KPJ Seremban Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9218260000,2.7185250000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Healthcare University College<BR><B>LATITUDE</B> = 2.779599<BR><B>LONGITUDE</B> = 101.773264]]></description>
+      <name>KPJ Healthcare University College</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7732640000,2.7795990000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Pahang Specialist Hospital<BR><B>LATITUDE</B> = 3.7999731<BR><B>LONGITUDE</B> = 103.3366227]]></description>
+      <name>KPJ Pahang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3366227000,3.7999731000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Penang Specialist Hospital<BR><B>LATITUDE</B> = 5.36913<BR><B>LONGITUDE</B> = 100.434293]]></description>
+      <name>KPJ Penang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4342930000,5.3691300000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Ipoh Specialist Hospital<BR><B>LATITUDE</B> = 4.5948899<BR><B>LONGITUDE</B> = 101.0961291]]></description>
+      <name>KPJ Ipoh Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0961291000,4.5948899000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Sri Manjung Specialist Hospital<BR><B>LATITUDE</B> = 4.2077181<BR><B>LONGITUDE</B> = 100.6751812]]></description>
+      <name>KPJ Sri Manjung Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.6751812000,4.2077181000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Taiping Medical Centre<BR><B>LATITUDE</B> = 4.8474791<BR><B>LONGITUDE</B> = 100.7324828]]></description>
+      <name>KPJ Taiping Medical Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.7324828000,4.8474791000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Perlis Specialist Hospital (Hospital Pakar KPJ Perlis)<BR><B>LATITUDE</B> = 6.4332029<BR><B>LONGITUDE</B> = 100.1864547]]></description>
+      <name>KPJ Perlis Specialist Hospital (Hospital Pakar KPJ Perlis)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.1864547000,6.4332029000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Kajang Specialist Hospital<BR><B>LATITUDE</B> = 2.9999093<BR><B>LONGITUDE</B> = 101.7857178]]></description>
+      <name>KPJ Kajang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7857178000,2.9999093000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Kuching Specialist Hospital<BR><B>LATITUDE</B> = 1.5058335<BR><B>LONGITUDE</B> = 110.3660038]]></description>
+      <name>KPJ Kuching Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3660038000,1.5058335000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Sibu Specialist Medical Centre<BR><B>LATITUDE</B> = 2.3009592<BR><B>LONGITUDE</B> = 111.83229]]></description>
+      <name>KPJ Sibu Specialist Medical Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>111.8322900000,2.3009592000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NEW KPJ HOSPITAL<BR><B>LATITUDE</B> = 1.5064031<BR><B>LONGITUDE</B> = 110.3660389]]></description>
+      <name>NEW KPJ HOSPITAL</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3660389000,1.5064031000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Miri Specialist Hospital<BR><B>LATITUDE</B> = 4.448113<BR><B>LONGITUDE</B> = 114.0340083]]></description>
+      <name>KPJ Miri Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>114.0340083000,4.4481130000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Sabah Specialist Hospital<BR><B>LATITUDE</B> = 5.9671364<BR><B>LONGITUDE</B> = 116.093055]]></description>
+      <name>KPJ Sabah Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0930550000,5.9671364000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Selangor Specialist Hospital<BR><B>LATITUDE</B> = 3.0573727<BR><B>LONGITUDE</B> = 101.5407779]]></description>
+      <name>KPJ Selangor Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5407779000,3.0573727000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = KPJ Klang Specialist Hospital<BR><B>LATITUDE</B> = 3.062302<BR><B>LONGITUDE</B> = 101.4633548]]></description>
+      <name>KPJ Klang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4633548000,3.0623020000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
